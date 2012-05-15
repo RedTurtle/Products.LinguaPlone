@@ -1,6 +1,13 @@
 Changelog
 =========
 
+3.2.1 - Unreleased
+------------------
+
+- Fixed preview of "renderable" fields that are not simply text/html (like
+  text/x-rst).
+  [keul]
+
 3.2 - 2010-11-25
 ----------------
 
